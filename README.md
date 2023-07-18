@@ -8,10 +8,7 @@ An interactive chatbot powered by OpenAI's GPT-3.5 model, designed to engage wit
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Contributing](#contributing)
 - [References](#references)
-- [License](#license)
 
 ## Introduction
 
