@@ -46,4 +46,4 @@ Chat-With-PDFs is an intelligent chatbot that leverages OpenAI's GPT-3.5 model t
 
 ## References
 
-1. [Video Tutorial](https://youtu.be/dXxQ0LR-3Hg) - Learn more about Chat-With-PDFs through this helpful video tutorial.
+1. [Video Tutorial](https://youtu.be/dXxQ0LR-3Hg)
